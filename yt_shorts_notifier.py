@@ -15,6 +15,7 @@ import xml.etree.ElementTree as ET
 # Use the channel ID (starts with "UC..."). See instructions below if you need help.
 CHANNEL_IDS = [
     "UCNhu3VutC-UjZvirkyBvQOw",   # example - replace with the channels you want
+    "UCQgJr2DXEpUTvgt2rgHNU7g"
 ]
 
 PROCESSED_DB = "processed_videos.json"
